@@ -1,0 +1,27 @@
+@import 'normalize';
+
+// -------------------------------------------------------------------------------------
+//                                    Trackr SCSS
+// -------------------------------------------------------------------------------------
+
+// Variables
+$background-primary:    #FFFFFF;
+$background-secondary:  #ECECEC;
+$primary-text-color:    #585858;
+$secondary-text-color:  #9C9C9C;
+$divider-color:         rgba(0, 0, 0, 0.1);
+$default-font-size:     1.4rem;
+$box-shadow-inputs:     0px 1px 1px 0px rgba(0,0,0,0.20), 0px 0px 0px 1px rgba(0,0,0,0.10);
+$red:                   #FF6159;
+$blue:                  #3B99FC;
+$green:                 #28CA42;
+$window-border-radius:  5px;
+
+// Scaffold
+body {
+  background-color: $background-primary;
+  color: $secondary-text-color;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue";
+  overflow: hidden;
+}
+
