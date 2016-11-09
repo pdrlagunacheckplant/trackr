@@ -1,6 +1,7 @@
 # Trackr
 
 <p align="center">
+  <img src="https://github.com/pedrolucasp/trackr/raw/master/app/renderer/img/logo.png" height="75">
   <h3 align="center">Trackr</h3>
   <p align="center">An open-source minimalistic tracker app</p>
 </p>
